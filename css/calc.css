@@ -8,7 +8,7 @@ input[type="button"].arit{
 }
 
 input[type="button"].igual{
-	background-color: black;
+	background-color: red;
 }
 
 input[type="button"].clear{
