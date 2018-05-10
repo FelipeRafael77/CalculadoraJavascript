@@ -1,18 +1,18 @@
 input[type="button"]:hover{
-	background-color:slategray;
+	background-color:black;
 	cursor: pointer;
 }
 
 input[type="button"].arit{
-	background-color:maroon;
+	background-color:black;
 }
 
 input[type="button"].igual{
-	background-color: green;
+	background-color: black;
 }
 
 input[type="button"].clear{
-	background-color:orangered;
+	background-color:black;
 }
 
 form{
