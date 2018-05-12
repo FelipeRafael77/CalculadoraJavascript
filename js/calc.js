@@ -24,18 +24,13 @@ var borrar = false;
 			document.f1.txtcaixa2.value = caixa2 + n;
 		}
 	}
-	function raiz(){
-		var caixa1 = document.f1.txtcaixa1.value;
-		var caixa2 = document.f1.txtcaixa2.value;
-		document.f1.txtcaixa1.value = "Math.sqrt("+ caixa2 + caixa1 +")";
-		document.f1.txtcaixa2.value = "";
-	}
-	function arit(o){
+	
+	function soma(o){
 		var caixa1 = document.f1.txtcaixa1.value;
 		var caixa2 = document.f1.txtcaixa2.value;
 		var unum = caixa1.substring(caixa1.length-1);
 		calcular()
-		if (unum == "+" || unum == "-" || unum=="*" || unum=="/") {
+		if (unum == "+") {
 			unum = unum.replace(unum,o);
 			var res = caixa1.substring(0,caixa1.length-1);
 			document.f1.txtcaixa1.value = res+unum;

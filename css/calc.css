@@ -3,7 +3,18 @@ input[type="button"]:hover{
 	cursor: pointer;
 }
 
-input[type="button"].arit{
+input[type="button"].soma{
+	background-color:black;
+}
+input[type="button"].subtracao{
+	background-color:black;
+}
+
+input[type="button"].multiplicacao{
+	background-color:black;
+}
+
+input[type="button"].divisao{
 	background-color:black;
 }
 
@@ -12,6 +23,10 @@ input[type="button"].igual{
 }
 
 input[type="button"].clear{
+	background-color:black;
+}
+
+input[type="button"].maismenos{
 	background-color:black;
 }
 
