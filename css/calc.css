@@ -4,7 +4,7 @@ input[type="button"]:hover{
 }
 
 input[type="button"].soma{
-	background-color:black;
+	background-color:orange;
 }
 input[type="button"].subtracao{
 	background-color:black;
@@ -19,7 +19,7 @@ input[type="button"].divisao{
 }
 
 input[type="button"].igual{
-	background-color: red;
+	background-color: black;
 }
 
 input[type="button"].clear{
@@ -68,4 +68,5 @@ input[type="button"]{
 
 body{
 	background-color:#f1f1f1;
+	font-family: Comic Sans MS;
 }
