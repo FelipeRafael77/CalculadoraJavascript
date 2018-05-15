@@ -1,0 +1,36 @@
+Changelog - 09/05/2018
+
+##ADD 
+- ADD modificacoes
+
+changelog - 10/05/2018
+
+##ADD
+
+- ADD cor
+
+- ADD nova cor
+
+changelog - 12/05/2018
+
+##ADD 
+- ADD function subtração
+ 
+##CHANGE 
+ - CHANGE functions das opreacoes matematicas
+
+changelog - 13/05/2018
+
+##CHANGE 
+- CHANGE variaveis, fonte do layout e cor dos botões
+
+changelog - 14/05/2018
+
+##CHANGE 
+ - CHANGE cor e layout dos botoes
+ 
+##ADD 
+- ADD function divisao
+ 
+##ADD 
+- ADD function multiplicacao
