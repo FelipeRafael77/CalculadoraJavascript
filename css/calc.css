@@ -1,0 +1,68 @@
+input[type="button"]:hover{
+	background-color:black;
+	cursor: pointer;
+}
+
+input[type="button"].soma{
+	background-color:#B8860B;
+}
+input[type="button"].subtracao{
+	background-color:green;
+}
+
+input[type="button"].multiplicacao{
+	background-color:brown;
+}
+
+input[type="button"].divisao{
+	background-color:blue;
+}
+
+input[type="button"].igual{
+	background-color: #FFD700;
+}
+
+input[type="button"].clear{
+	background-color:red;
+}
+
+input[type="button"].maismenos{
+	background-color:#FFD700;
+}
+
+input[type="text"]{
+	background-color:black;
+	border:0px;
+	width:250px;
+	height: 40px;
+	font-size: 20px;
+	color: white;
+	text-align: right;
+	pointer-events: none;
+}
+
+input[name="txtcaixa1"]{
+	height: 20px;
+	font-size: 16px;
+}
+
+input[name="txtcaixa2"]{
+	margin-bottom: 5px;
+	font-size: 26px;
+}
+
+input[type="button"]{
+	font-size: 18px;
+	font-weight:lighter;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	width:60px;border:0px;
+	height: 60px;
+	color: white;
+	background-color:black;
+	margin-bottom: 5px;
+}
+
+body{
+	background-color:#f1f1f1;
+	font-family: Comic Sans MS;
+}
